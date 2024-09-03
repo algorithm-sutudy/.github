@@ -5,7 +5,7 @@
 </br>
 </br>
 
-### 1차시 문제 리스트 (9/7)
+### 1차시 문제 (9/7)
 
 - **[11723] [집합](https://www.acmicpc.net/problem/11723)**
 - **[9655] [돌 게임](https://www.acmicpc.net/problem/9655)**
