@@ -2,7 +2,18 @@
 
 원본 문제 링크는 [여기](https://www.acmicpc.net/workbook/view/8708)에서 확인할 수 있습니다.
 
-### 문제 목록
+### 1차시 문제 리스트
+
+- **[11723] [집합](https://www.acmicpc.net/problem/11723)**
+- **[9655] [돌 게임](https://www.acmicpc.net/problem/9655)**
+- **[10431] [줄세우기](https://www.acmicpc.net/problem/10431)**
+- **[15989] [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)**
+
+
+
+---
+
+### 전체 문제 리스트
 
 1. **[23971] [ZOAC 4](https://www.acmicpc.net/problem/23971)**
 2. **[5073] [삼각형과 세 변](https://www.acmicpc.net/problem/5073)**
