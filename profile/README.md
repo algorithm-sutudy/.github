@@ -25,12 +25,12 @@
 </br>
 
 ### 3차시 문제 (10/9)
+- [21921] [블로그](https://www.acmicpc.net/problem/21921)
 - [14940] [쉬운 최단거리](https://www.acmicpc.net/problem/14940)
 - [13549] [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
 - [12919] [A와 B 2](https://www.acmicpc.net/problem/12919)
 - [16234] [인구 이동](https://www.acmicpc.net/problem/16234)
 - [2138] [전구와 스위치](https://www.acmicpc.net/problem/2138)
-- [21921] [블로그](https://www.acmicpc.net/problem/21921)
 
 </br>
 </br>
