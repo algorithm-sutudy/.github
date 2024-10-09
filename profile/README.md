@@ -5,45 +5,6 @@
 </br>
 </br>
 
-### 1차시 문제 (9/7)
-
-- [11723] [집합](https://www.acmicpc.net/problem/11723)
-- [9655] [돌 게임](https://www.acmicpc.net/problem/9655)
-- [10431] [줄세우기](https://www.acmicpc.net/problem/10431)
-- [15989] [1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)
-
-</br>
-
-### 2차시 문제 (9/28)
-
-- [7568] [덩치](https://www.acmicpc.net/problem/7568)
-- [4659] [비밀번호 발음하기](https://www.acmicpc.net/problem/4659)
-- [20125] [쿠키의 신체 측정](https://www.acmicpc.net/problem/20125)
-- [9017] [크로스 컨트리](https://www.acmicpc.net/problem/9017)
-- [2512] [예산](https://www.acmicpc.net/problem/2512)
-
-</br>
-
-### 3차시 문제 (10/9)
-- [21921] [블로그](https://www.acmicpc.net/problem/21921)
-- [14940] [쉬운 최단거리](https://www.acmicpc.net/problem/14940)
-- [13549] [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
-- [12919] [A와 B 2](https://www.acmicpc.net/problem/12919)
-- [16234] [인구 이동](https://www.acmicpc.net/problem/16234)
-- [2138] [전구와 스위치](https://www.acmicpc.net/problem/2138)
-
-</br>
-
-### 4차시 문제 (10/26)
-- [8979] [올림픽](https://www.acmicpc.net/problem/8979)
-- [25757] [임스와 함께하는 미니게임](https://www.acmicpc.net/problem/25757)
-- [1927] [최소 힙](https://www.acmicpc.net/problem/1927)
-- [1260] [DFS와 BFS](https://www.acmicpc.net/problem/1260)
-- [4485] [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
-
-</br>
-</br>
-
 ### 전체 문제 리스트
 
 1. [23971] [ZOAC 4](https://www.acmicpc.net/problem/23971)
